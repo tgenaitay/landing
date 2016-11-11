@@ -9680,7 +9680,7 @@ button.close {
 
 /* line 16, /Users/thibault/code/tgenaitay/landing/source/stylesheets/components/_banner.scss */
 .banner p {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: lighter;
   color: rgba(255, 255, 255, 0.7);
   margin-bottom: 20px; }
@@ -9688,7 +9688,7 @@ button.close {
 /* line 23, /Users/thibault/code/tgenaitay/landing/source/stylesheets/components/_banner.scss */
 .banner .QR {
   width: 150px;
-  margin: 20px 0px; }
+  margin: 60px 0px 0px 0px; }
 
 /* line 1, /Users/thibault/code/tgenaitay/landing/source/stylesheets/components/_button.scss */
 .btn-medium {
