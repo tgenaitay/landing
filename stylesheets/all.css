@@ -9630,10 +9630,13 @@ button.close {
     right: 20px;
     bottom: 20px; }
   /* line 17, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
+  .readme .features img {
+    width: 100px; }
+  /* line 21, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
   .readme pre {
     margin-top: 30px !important;
     margin-bottom: 30px !important; }
-  /* line 24, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
+  /* line 28, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
   .readme h1.readme-header, .readme h2.readme-header, .readme h3.readme-header {
     color: #7D7979;
     font-weight: bold;
@@ -9646,16 +9649,16 @@ button.close {
     color: white;
     border-radius: 10px;
     margin-bottom: 20px; }
-  /* line 37, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
+  /* line 41, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
   .readme h1.readme-header {
     font-size: 17px; }
-  /* line 40, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
+  /* line 44, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
   .readme h2.readme-header {
     font-size: 25px; }
-  /* line 43, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
+  /* line 47, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
   .readme h3.readme-header {
     font-size: 25px; }
-  /* line 46, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
+  /* line 50, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
   .readme li {
     font-size: 18px;
     line-height: 30px;
