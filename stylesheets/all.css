@@ -9630,7 +9630,7 @@ button.close {
     right: 20px;
     bottom: 20px; }
   /* line 17, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
-  .readme .features img {
+  .readme .features li img {
     width: 100px; }
   /* line 21, /Users/thibault/code/tgenaitay/workshop-landing/source/stylesheets/pages/_home.css.scss */
   .readme pre {
