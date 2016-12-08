@@ -1,6 +1,17 @@
-## Le Wagon Shanghai Workshop
+## Le Wagon Shanghai 
 
-1. [Browse](https://tgenaitay.github.io/landing/)
-2. [Download the slides](https://tgenaitay.github.io/landing/Le-Wagon-Landing-page-Dec-5-Shanghai.pdf)
-3. [Contact](shanghai@lewagon.org)
-4. Follow Le Wagon in WeChat: ![QRcode](https://tgenaitay.github.io/landing/images/QRCode.gif)
+###HTML & CSS Workshop
+
+`Update: Dec 7`
+
+1. [Browse tutorial](https://tgenaitay.github.io/landing/)
+2. [Download the slides](https://github.com/tgenaitay/landing/raw/gh-pages/Le-Wagon-Landing-page-Dec-7-Shanghai.pdf)
+3. **Build your own!**
+3. [Contact us](shanghai@lewagon.org)
+4. Join next courses...
+
+More in WeChat:
+
+![QRcode](https://tgenaitay.github.io/landing/images/QRCodeLeWagon.gif)
+
+
